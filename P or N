@@ -1,0 +1,5 @@
+a=int(input("Enter th no:")
+if(a>0):
+  print("Positive")
+else:
+print("Negative")
